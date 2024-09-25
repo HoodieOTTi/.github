@@ -1,6 +1,6 @@
 <div align="center">
 
-# OTTI_Backend
+# OTTI
 
 <table>
   <tbody>
