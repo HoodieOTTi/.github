@@ -1,12 +1,12 @@
 <div align="center">
 
-# OTTI
+# Hoodie - OTTI
 
 <table>
   <tbody>
     <tr align="center">
       <td colspan="3">
-        SKHU IT 경진대회 출품작 <br/> Team Hoodie Backend
+        SKHU IT 경진대회 출품작 <br/> Team Hoodie
       </td>
     </tr>
     <tr align="center">
