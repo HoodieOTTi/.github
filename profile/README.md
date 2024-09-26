@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hoodie - OTTI
+# Hoodie - OTTi
 
 <table>
   <tbody>
